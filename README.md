@@ -33,7 +33,6 @@ BankingSystem/
 │── BankingSystem.sql
 │── requirements.txt
 │── README.md
-│── .gitignore
 ```
 
 ## ⚙️ Installation
